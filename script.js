@@ -1,4 +1,5 @@
 
+const input = document.getElementById('inpu')
 const c = document.getElementById('c')
 const equal = document.getElementById('equal')
 const all = document.querySelector('.all')
